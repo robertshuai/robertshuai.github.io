@@ -21,13 +21,13 @@ nav:
 
 # Footer
 footer:
-  since: 2017
+  since: 2020
 
 # Author 配置博主信息
 author: '邵帅'
 nickname: '奥巴熊'
 bio: '人工智能开发者，热爱技术&设计，简单乐观爱创造'
-avatar: '/assets/img/touxiang.jpg'
+avatar: '/assets/img/touxiang2.jpg'
 
 # Search
 search: true
@@ -45,7 +45,7 @@ mathjax: true
 
 # Share
 social-share: true
-social-share-items: ['wechat', 'weibo', 'douban', 'twitter']
+social-share-items: ['jianshu']
 
 # theme color 主题皮肤
 theme-color: 'default'  # pink or default
