@@ -1,7 +1,6 @@
 ---
-layout: post
-title: '算法笔记（第一周）'
-subtitle: '算法'
+layout:git使用'
+subtitle: 'git'
 date: 2020-6-21
 categories: 技术
 cover: 'http://on2171g4d.bkt.clouddn.com/jekyll-theme-h2o-postcover.jpg'
